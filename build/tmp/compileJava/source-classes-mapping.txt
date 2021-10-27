@@ -1,0 +1,24 @@
+co/com/utest/model/UtestDatos.java
+ co.com.utest.model.UtestDatos
+co/com/utest/tasks/Abrir.java
+ co.com.utest.tasks.Abrir
+co/com/utest/tasks/IngresarLosDatosDeLaDireccion.java
+ co.com.utest.tasks.IngresarLosDatosDeLaDireccion
+co/com/utest/userinterface/UtestBuscarOpcionRegistro.java
+ co.com.utest.userinterface.UtestBuscarOpcionRegistro
+co/com/utest/tasks/Buscar.java
+ co.com.utest.tasks.Buscar
+co/com/utest/tasks/IngresarLosDatosPersonales.java
+ co.com.utest.tasks.IngresarLosDatosPersonales
+co/com/utest/tasks/IngresarLosDatosContrasena.java
+ co.com.utest.tasks.IngresarLosDatosContrasena
+co/com/utest/userinterface/UtestDatosDeDireccion.java
+ co.com.utest.userinterface.UtestDatosDeDireccion
+co/com/utest/userinterface/UtestDatosDeDispositivos.java
+ co.com.utest.userinterface.UtestDatosDeDispositivos
+co/com/utest/userinterface/UtestDatosPersonales.java
+ co.com.utest.userinterface.UtestDatosPersonales
+co/com/utest/userinterface/UtestPaginaInicio.java
+ co.com.utest.userinterface.UtestPaginaInicio
+co/com/utest/tasks/IngresarLosDatosDeSuDispositivos.java
+ co.com.utest.tasks.IngresarLosDatosDeSuDispositivos
